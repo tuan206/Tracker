@@ -7,3 +7,9 @@ Hellscream-WoW is a full featured *MMORPG* service with a focus on World of Warc
 Accounts can be created [here](http://www.hellscream-wow.com/register)
 
 All required files can be obtained [here](http://www.hellscream-wow.com/downloads)
+
+#### Links
+
+Website: http://www.hellscream-wow.com/register
+
+Forum: http://www.hellscream-wow.com/forum/index.php
